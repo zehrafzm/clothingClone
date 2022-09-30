@@ -1,0 +1,85 @@
+.genderButtonLis{
+    list-style-type: circle;
+    margin-left:2em;
+    display: inline-block;
+}
+.menuBar{
+    background-image: url("./imageforjs/cara2.png");
+    height: 7rem;
+    margin-bottom: .5rem;
+    position:sticky;
+    top: 0;
+    list-style: none;
+}
+.mainPage{
+    background-image: url("https://www.karl.com/dw/image/v2/BHHT_PRD/on/demandware.static/-/Library-Sites-KarlLagerfeldSharedLibrary/default/dwcaeca52c/FW22/CARALOVESKARL/CARALOVESKARL_CAMPAIGN_CARA_DESKTOP.jpg?sw=1900&sh=1070");
+    height: 100rem;
+
+}
+.womenClothes {
+    background-color: aliceblue;
+    list-style-type: circle;
+    margin: 3.2rem;
+    display: inline-block;
+    margin-top: 0;
+}
+.manClothes {
+    background-color: aliceblue;
+    margin: 2rem;
+    display: inline-block;
+    width: 20rem;
+}
+
+.genderButton{
+    color: goldenrod;
+    background-color: transparent;
+    font-size: 2rem;
+    margin: 1rem;
+    border-radius: 2rem;
+    border-color: goldenrod;
+    opacity: 40%;
+    
+  }
+.genderButton:hover { 
+    color: gold;
+    font-size: 2.2rem;
+    border-radius: 2rem;
+    opacity: 80%; 
+    
+}
+.womenDiv{
+    background-color: whitesmoke;
+    height: 50em
+}
+#brandName{
+    font-size: 3em;
+    margin-right: 39%;
+    font-style: italic;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input:hover,button:hover{
+    cursor: pointer;
+}
+.icon:hover{
+    cursor: pointer;
+}
+#priceButton{
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    border: none;
+}
+#bagPrice {
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 3rem;
+    font-size: 1.3rem;
+    position: fixed;
+    margin-left: 85%;
+    margin-top: 35%;
+}
+.toBeInlined{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}

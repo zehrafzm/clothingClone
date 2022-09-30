@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+body{
+  /* background-image: url("https://www.karl.com/dw/image/v2/BHHT_PRD/on/demandware.static/-/Library-Sites-KarlLagerfeldSharedLibrary/default/dwcaeca52c/FW22/CARALOVESKARL/CARALOVESKARL_CAMPAIGN_CARA_DESKTOP.jpg?sw=1900&sh=1070");  */
+  background-color: whitesmoke;
+  height: 100rem;
+}
+#loginRegister{
+  margin: 30em;
+}
