@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.68137b54.css",
-    "main.js": "/static/js/main.a7c27a54.js",
-    "static/js/787.ea13e339.chunk.js": "/static/js/787.ea13e339.chunk.js",
-    "static/media/cara2.png": "/static/media/cara2.b8489dd195045b108747.png",
-    "index.html": "/index.html",
-    "main.68137b54.css.map": "/static/css/main.68137b54.css.map",
-    "main.a7c27a54.js.map": "/static/js/main.a7c27a54.js.map",
-    "787.ea13e339.chunk.js.map": "/static/js/787.ea13e339.chunk.js.map"
+    "main.css": "/clothingClone/static/css/main.7b6358ea.css",
+    "main.js": "/clothingClone/static/js/main.d3803760.js",
+    "static/js/787.ea13e339.chunk.js": "/clothingClone/static/js/787.ea13e339.chunk.js",
+    "static/media/cara2.png": "/clothingClone/static/media/cara2.b8489dd195045b108747.png",
+    "index.html": "/clothingClone/index.html",
+    "main.7b6358ea.css.map": "/clothingClone/static/css/main.7b6358ea.css.map",
+    "main.d3803760.js.map": "/clothingClone/static/js/main.d3803760.js.map",
+    "787.ea13e339.chunk.js.map": "/clothingClone/static/js/787.ea13e339.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68137b54.css",
-    "static/js/main.a7c27a54.js"
+    "static/css/main.7b6358ea.css",
+    "static/js/main.d3803760.js"
   ]
 }
